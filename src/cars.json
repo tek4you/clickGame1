@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "car1",
+      "image": "/images/car1.jpg"
+
+    },
+    {
+      "id": 2,
+      "name": "car2",
+      "image": "/images/car2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "car3",
+      "image": "/images/car3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "car4",
+        "image": "/images/car4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "car5",
+        "image": "/images/car5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "car6",
+        "image": "/images/car6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "car7",
+        "image": "/images/car7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "car8",
+        "image": "/images/car8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "car9",
+        "image": "/images/car9.jpg"
+    },
+    {
+        "id": 10,
+        "name": "car10",
+        "image": "/images/car10.jpg"
+    },
+    {
+        "id": 11,
+        "name": "car11",
+        "image": "/images/car11.jpg"
+    },
+    {
+        "id": 12,
+        "name": "car12",
+        "image": "/images/car12.jpg"
+    }
+]

@@ -19,6 +19,14 @@
   color: white;
 }
 
+.tiles {
+  height: 200px;
+  width: 200px;
+  border: solid 5px #4aaaa5;
+  margin: 10px;
+
+}
+
 .App-link {
   color: #61dafb;
 }
